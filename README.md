@@ -1,4 +1,4 @@
-# Sistema de Pizzaria em Java
+# Sistema da Pizzaria da Vinci
 
 ## Sobre o projeto:
 
@@ -7,6 +7,12 @@ Sistema de Pizzaria desenvolvido para a __Pizzaria Da Vinci__. Esse sistema arma
 O sistema trabalha de forma que armazena as informações localmente, através de arquivos TXT, não necessitando de internet para funcionar e nem de um servidor para guardar as informações.
 
 O sistema tem uma facil adaptação para ser utilizado em outras pizzarias.
+
+## O sistema:
+
+O sistema foi totalmente desenvolvido em _Java_. Nele foi utilizado _itextpdf_ para imprimir o pedido gerado pelo atendente ao criar o pedido do cliente.
+
+O sistema também conta com a biblioteca _BufferedReader, FileReader, FileWriter, PrintWriter_ para incluir, ler, alterar e excluir informações do arquivo TXT onde as informações são guardadas. 
 
 ## Partes a melhorar/desenvolver:
 
