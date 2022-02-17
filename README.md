@@ -18,7 +18,8 @@ O sistema tem uma facil adaptação para ser utilizado em outras pizzarias.
 ## Segue algumas imagens do sistema aberto:
 
 - Página Principal do Sistema:
-![Página Principal do Sistema.](https://user-images.githubusercontent.com/44526943/154386343-f2bf9cee-64d5-4bb0-8b75-ba57f1b7a6b3.png)
+![Página Principal do Sistema.](https://user-images.githubusercontent.com/44526943/154386767-abfb9926-335a-4166-a7e1-77dcf68c8f43.png)
+
 
 - Página de Clientes:
 ![Página de Clientes.](https://user-images.githubusercontent.com/44526943/154386407-059dcafe-1ff6-4c3a-843a-52768579fcc1.png)
