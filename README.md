@@ -2,15 +2,15 @@
 
 ## Sobre o projeto:
 
-Sistema de Pizzaria desenvolvido para a __Pizzaria Da Vinci__. Esse sistema armazena todos os alimentos que são comercializados pela pizzaria e também informações de seus clientes. O mesmo obtem uma facil e limpa interface para utilização e tem como principal objetivo facilitar a vida da atendente ao realizar o pedido do cliente.
+Sistema em questão foi desenvolvido para a __Pizzaria Da Vinci__. Esse sistema consiste em armazenar todos os seus alimentos que são comercializados pela pizzaria e também informações de clientes. O mesmo obtém uma interface fácil e limpa para utilização e tem como principal objetivo facilitar o trabalho do atendente ao realizar o pedido do cliente.
 
-O sistema trabalha de forma que armazena as informações localmente, através de arquivos TXT, não necessitando de internet para funcionar e nem de um servidor para guardar as informações.
+O sistema armazena as informações localmente, através de arquivos TXT, ou seja, não necessita de internet para funcionar e nem de um servidor para guardar as informações.
 
 O sistema tem uma facil adaptação para ser utilizado em outras pizzarias.
 
 ## O sistema:
 
-O sistema foi totalmente desenvolvido em _Java_. Nele foi utilizado _itextpdf_ para imprimir o pedido gerado pelo atendente ao criar o pedido do cliente.
+O sistema foi totalmente desenvolvido em _Java_. Nele foi utilizado _itextpdf_ para imprimir o pedido do cliente ao ser atendido.
 
 O sistema também conta com a biblioteca _BufferedReader, FileReader, FileWriter, PrintWriter_ para incluir, ler, alterar e excluir informações do arquivo TXT onde as informações são guardadas. 
 
@@ -18,7 +18,7 @@ O sistema também conta com a biblioteca _BufferedReader, FileReader, FileWriter
 
 - [ ] Criar um sistema de relatórios;
 - [ ] Criar um gerenciador de úsuarios (Criando um sistema de permissões, para bloquear determinadas ações no sistema);
-- [ ] Criar importações de informações por excel; e
+- [ ] Criar importações e exportações de informações por excel; e
 - [ ] Trabalhar na parte visual do sistema.
 
 ## Segue algumas imagens do sistema aberto:
