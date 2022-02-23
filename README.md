@@ -21,7 +21,7 @@ O sistema também conta com a biblioteca _BufferedReader, FileReader, FileWriter
 - [ ] Criar importações e exportações de informações por excel; e
 - [ ] Trabalhar na parte visual do sistema.
 
-## Segue algumas imagens do sistema aberto:
+## Ilustrações do sistema:
 
 - Página Principal do Sistema:
 ![Página Principal do Sistema.](https://user-images.githubusercontent.com/44526943/154386767-abfb9926-335a-4166-a7e1-77dcf68c8f43.png)
